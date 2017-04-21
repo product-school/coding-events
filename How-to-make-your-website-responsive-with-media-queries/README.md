@@ -1,4 +1,4 @@
-# Intro to Webdesign
+# How to use Media Queries
 
 A startup has a landing page coded but unfortunately. It isn't responsive at all. They hired us to finish the job.
 
@@ -277,4 +277,4 @@ This looks better now for iphones 6! Unless if we view it in portrait mode. Let'
 }
 ```
 
-Way better right? This is the power of media queries and CSS. 
+Way better right? This is the power of media queries and CSS.
