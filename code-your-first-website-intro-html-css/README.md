@@ -24,11 +24,11 @@ Each word in between angle brackets `<></>` is the name of an HTML tag. An HTML 
 
 ```html
 <html></html> ==> html webpage
-<head></head> ==> tags to setup your page
-<body></body> ==> the body of your webpage
-<h1></h1> ==> Titles
+<head></head> ==> tags to setup your page (metadata)
+<body></body> ==> the body of your webpage (content)
+<h1></h1> ==> Titles (headings)
 <p></p> ==> Paragraphs
-<title></title> ==> Title of your webpage
+<title></title> ==> Title of your webpage (appears in browser tab)
 ```
 Let's try to write something. Inside your `<body></body>` insert the following code:
 
