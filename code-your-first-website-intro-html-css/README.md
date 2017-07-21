@@ -20,7 +20,7 @@ In your `index.html` you'll need to set up few things for your webpage
 </html>
 ```
 
-Each element in between carrots `<></>` are tags, each HTML element are in between tags. You have different tags to structure your html page. Here are a few of them:
+Each word in between angle brackets `<></>` is the name of an HTML tag. An HTML element usually is comprised of an opening tag and a closing tag. The content of each element goes in between the opening and closing tag. You have different tags to structure your html page. Here are a few of them:
 
 ```html
 <html></html> ==> html webpage
